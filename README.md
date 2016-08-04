@@ -7,5 +7,4 @@ This is a README file.
 * **Guide:** Jump Start PHP Environment
 * **Mentor in the Field:** Bruno Skvorc
 * **Mission:** Learning about Git and GitHub
-* **Goal:** To contribute tremendously to the open source world
-* fghghghg
+* **Goal:** To contribute my quota to the open source world
